@@ -1,8 +1,8 @@
 class Kuroko < Formula
   desc "Terminal home base for the AI agent era (command: krk)"
   homepage "https://github.com/ysmb-wtsg/kuroko"
-  url "https://github.com/ysmb-wtsg/kuroko/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "328d0d5845fb459b2b8b40573a65aeeeae5a6ad096e38653fed03dc9b15b1604"
+  url "https://github.com/ysmb-wtsg/kuroko/archive/refs/tags/v0.5.1.tar.gz"
+  sha256 "784b4cc445f30d209827378b0914d83647116f775c858f6607f4c958064c633f"
   license "MIT"
   head "https://github.com/ysmb-wtsg/kuroko.git", branch: "main"
 
